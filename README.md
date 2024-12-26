@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm S. Udaya Kumar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate DevOps Engineer, driving efficiency through automation, collaboration, and cloud technologies</h3>
 
 ###
 <h2 align="left">👩‍💻  About Me</h2>
