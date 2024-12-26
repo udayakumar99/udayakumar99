@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm S. Udaya Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+###
+<h2 align="left">👩‍💻  About Me</h2>
+
+###
+
 - 🔭 I’m working on **Cloud and DevOps**
 
 - 🌱 I’m currently learning **Azure, Kubernetes & Grafana**
@@ -36,7 +41,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" height="40" alt="prometheus logo"  />
   <img width="12" />
-  <p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 
 </div>
 
