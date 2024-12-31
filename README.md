@@ -52,7 +52,7 @@
 
 ###
 
-<h2 align="left">🔥   My Stats :</h2>
+<h2 align="left"> My Stats :</h2>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udayakumar99&" alt="udayakumar99" /></p>
