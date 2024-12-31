@@ -58,10 +58,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udayakumar99&" alt="udayakumar99" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=udayakumar99&show_icons=true&locale=en&layout=compact" alt="udayakumar99" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=udayakumar99&" alt="udayakumar99" /></p>
 
 
-## 📫 Connect with Me
+
+###
+
+Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/udayakumar01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/udayakumar01" height="30" width="40" /></a>
 <a href="https://instagram.com/_u_d_a_y._1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_u_d_a_y._1" height="30" width="40" /></a>
